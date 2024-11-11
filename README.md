@@ -1,4 +1,4 @@
-This is a moded AssaultCube game by DatBoiG265.
+This is a moded AssaultCube game by G265Dev.
 
 By the way Check the game dev's README.html file after this
 
@@ -36,6 +36,3 @@ helping the open-source community,making your own mods,Completely changing the g
 
 REMINDER by the way its the end of the readme=
 Hope you all have a good time and enjoy playing my modded version of AssaultCube
-
-"STAY EPIC"
-DatBoiG265
